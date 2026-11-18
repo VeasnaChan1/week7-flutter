@@ -26,9 +26,10 @@ flutter:
   uses-material-design: true
 
  
-  # assets:
-  #   - assets/dices/dice-2.png
-  #   - assets/dices/dice-1.png
-  #   - assets/dices/dice-2.png
-  #   - assets/dices/dice-1.png
+  assets:
+    - assets/bird.jpg
+    - assets/bird2.jpg
+    - assets/insect.jpg
+    - assets/girl.jpg
+    - assets/man.jpg
 
